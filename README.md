@@ -1,5 +1,19 @@
-▶️ SQL Portfolio – Análisis y Automatización de Datos
 Autor: Michael Paul Collado Morales
+📬 Contacto
+Michael Paul Collado Morales
+📍 Arequipa, Perú
+📧 michael.collado@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/michaelpaulcm
+
+🎯 Propósito del Proyecto
+- Este portafolio fue desarrollado para demostrar experiencia sólida en análisis de datos, SQL avanzado y generación de insights accionables para roles como:
+- Data Analyst
+- Business Intelligence Analyst
+- Process Analyst
+- Business Analytics / Reporting
+- Data-Driven Operations
+
+▶️ SQL Portfolio – Análisis y Automatización de Datos en una empresa de Ventas
 
 Este repositorio contiene un conjunto de proyectos y ejercicios avanzados de SQL aplicados a escenarios reales de negocio.
 Incluye consultas de análisis, KPIs, automatización, métricas móviles y diagnósticos sobre un dataset simulado de ventas, clientes y productos entre enero 2023 y julio 2025.
@@ -194,18 +208,4 @@ Departamentos:
 30.	Crear un resumen mensual con ventas acumuladas, ranking y porcentaje sobre total.
 
 
-🎯 Propósito del Proyecto
-- Este portafolio fue desarrollado para demostrar experiencia sólida en análisis de datos, SQL avanzado y generación de insights accionables para roles como:
-- Data Analyst
-- Business Intelligence Analyst
-- Process Analyst
-- Business Analytics / Reporting
-- Data-Driven Operations
-
-
-📬 Contacto
-Michael Paul Collado Morales
-📍 Arequipa, Perú
-📧 michael.collado@outlook.com
-🔗 LinkedIn: https://www.linkedin.com/in/michaelpaulcm
 
