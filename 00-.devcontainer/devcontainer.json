@@ -1,1 +1,16 @@
-
+{
+  "name": "SQL Server DevContainer",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [1433],
+  "postCreateCommand": "sudo /opt/mssql/bin/sqlservr --accept-eula &",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-mssql.mssql"
+      ]
+    }
+  }
+}
