@@ -74,6 +74,7 @@ Departamentos table:
 - ubicacion	nvarchar	100	1
 
 🛠 Habilidades Demostradas
+
 ✔ SQL Avanzado
 - Uso de CTEs
 - Joins complejos
