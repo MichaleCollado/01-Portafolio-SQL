@@ -21,11 +21,10 @@ El objetivo es demostrar dominio en:
   - productos.csv
   - empleados.csv
   - departamentos│
-- 00-SQL-Portafolio.sql
-  - creación de tablas
-  - queries-nivel_basico
-  - queris-nivel-intermedio
-  - queries-nivel-avanzado
+- 00-Archivo-SQL-Server.sql
+- 01-Resultados-SQL-Consultas-Básicas.ipynb
+- 02-Resultados-SQL-Consultas-Intermedias.ipynb
+- 03-Resultados-SQL-Consultas-Avanzadas.ipynb
 
 🗂 Información Tablas
 
