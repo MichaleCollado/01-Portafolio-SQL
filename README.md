@@ -112,6 +112,7 @@ Departamentos:
 - Métricas móviles
 - Ranking dinámico
 
+🟡🟡 Información desarrollada
 
 🟡 NIVEL BÁSICO
 1.	Mostrar todos los registros de la tabla clientes.
