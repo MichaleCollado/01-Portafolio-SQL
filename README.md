@@ -98,6 +98,7 @@ Departamentos table:
 
 
 🟡 NIVEL BÁSICO
+
 ==== Consultas introductorias ====
 1.	Mostrar todos los registros de la tabla clientes.
 2.	Listar los nombres de todos los productos disponibles.
@@ -109,23 +110,25 @@ Departamentos table:
 8.	Mostrar los productos vendidos en la región 'NORTE'.
 9.	Obtener el número total de clientes por país.
 10.	Mostrar los 10 clientes más recientes (ordenados por fecha_registro).
+    
 ==== Filtros y agregaciones ====
-11.	Listar las ventas donde la cantidad vendida sea mayor a 10 unidades.
-12.	Calcular el precio promedio por categoría de producto.
-13.	Mostrar los empleados cuyo salario es superior a 3000.
-14.	Listar las ventas realizadas en el canal 'WEB' durante 2024.
-15.	Mostrar las categorías de producto distintas.
-16.	Calcular el total de ventas por producto (SUM(cantidad * precio_unitario)).
-17.	Contar cuántos empleados tiene cada departamento.
-18.	Mostrar las ventas agrupadas por región y canal.
-19.	Calcular el monto promedio de venta por cliente.
-20.	Obtener las fechas de la primera y última venta por cliente.
+12.	Listar las ventas donde la cantidad vendida sea mayor a 10 unidades.
+13.	Calcular el precio promedio por categoría de producto.
+14.	Mostrar los empleados cuyo salario es superior a 3000.
+15.	Listar las ventas realizadas en el canal 'WEB' durante 2024.
+16.	Mostrar las categorías de producto distintas.
+17.	Calcular el total de ventas por producto (SUM(cantidad * precio_unitario)).
+18.	Contar cuántos empleados tiene cada departamento.
+19.	Mostrar las ventas agrupadas por región y canal.
+20.	Calcular el monto promedio de venta por cliente.
+21.	Obtener las fechas de la primera y última venta por cliente.
+
 ==== Subconsultas simples y ordenaciones ====
-21.	Mostrar los clientes cuyo país es igual al país del cliente con id_cliente = 10.
-22.	Listar los 5 productos más caros según precio_lista.
-23.	Mostrar los clientes que no tienen edad registrada (edad IS NULL).
-24.	Calcular el total de ventas del producto más vendido.
-25.	Mostrar las 5 ventas de mayor valor total (cantidad * precio_unitario).
+22.	Mostrar los clientes cuyo país es igual al país del cliente con id_cliente = 10.
+23.	Listar los 5 productos más caros según precio_lista.
+24.	Mostrar los clientes que no tienen edad registrada (edad IS NULL).
+25.	Calcular el total de ventas del producto más vendido.
+26.	Mostrar las 5 ventas de mayor valor total (cantidad * precio_unitario).
 
 🟡 NIVEL INTERMEDIO
 1.	Obtener todos los empleados cuyo salario sea mayor al promedio general.
