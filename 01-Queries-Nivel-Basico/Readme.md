@@ -1,10 +1,3 @@
-use BD_SQL_;
-select * from clientes;
-select * from departamentos;
-select * from empleados;
-select * from productos;
-select * from ventas;
-
 /* ======🟡 NIVEL BÁSICO====== */
 
 /* 1.Mostrar todos los registros de la tabla clientes. */
