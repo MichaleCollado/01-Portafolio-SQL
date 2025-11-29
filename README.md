@@ -186,6 +186,17 @@ Departamentos table:
 29.	Calcular el crecimiento relativo del top 10 de clientes.
 30.	Crear un resumen mensual con ventas acumuladas, ranking y porcentaje sobre total.
 
+🎯 Propósito del Proyecto
+- Este portafolio fue desarrollado para demostrar experiencia sólida en análisis de datos, SQL avanzado y generación de insights accionables para roles como:
+- Data Analyst
+- Business Intelligence Analyst
+- Process Analyst
+- Business Analytics / Reporting
+- Data-Driven Operations
 
-
+📬 Contacto
+Michael Paul Collado Morales
+📍 Arequipa, Perú
+📧 michael.collado@outlook.com
+🔗 LinkedIn: https://www.linkedin.com/in/michaelpaulcm
 
